@@ -1,10 +1,9 @@
-# 🎬 🪴 FJ Tria ⚡️ ☕️
-I'm a software engineer and front-end developer. I help design and develop user-centric software systems.
+## 🎬 🪴 FJ Tria ⚡️ ☕️
+Software engineer and web developer.
 
-## Links
-⭑ 🎨 Check out my website @ [fjstria.github.io](https://fjstria.github.io/)
-
-⭑ 👤 Connect with me on LinkedIn @ [linkedin.com/in/fjstria](https://www.linkedin.com/in/fjstria/)
+### Links
+- 🌐 [View my portfolio](https://fjstria.github.io/)
+- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/fjstria/)
 
 ## Tech Stack
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
