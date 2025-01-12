@@ -1,9 +1,9 @@
-## 🎬 🪴 FJ Tria ⚡️ ☕️
+## 🪴 FJ Tria ☕️
 Software engineer and web developer.
 
 ### Links
-- 🌐 [View my portfolio](https://fjstria.github.io/)
-- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/fjstria/)
+- 🌐 [View my portfolio](https://fjtria.github.io/)
+- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/fjtria/)
 
 ## Tech Stack
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
