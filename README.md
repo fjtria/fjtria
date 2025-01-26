@@ -1,5 +1,5 @@
 ## 🪴 fj tria ☕️
-software engineer interested in web development and cybersecurity
+software engineer
 
 ### links
 - 🌐 [portfolio](https://fjtria.dev/)
