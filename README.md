@@ -1,6 +1,5 @@
-## 🪴 fj tria ☕️
-software engineer
+# fj tria
 
-### links
-- 🌐 [portfolio](https://fjtria.dev/)
+## links
+- 🌐 [portfolio](https://fjtria.github.io/)
 - 🤝 [linkedin](https://www.linkedin.com/in/fjtria/)
